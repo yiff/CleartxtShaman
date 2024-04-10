@@ -1,7 +1,5 @@
 # CleartxtShaman
 
-Use:
-
 Windows
 -------
 Download and run the .exe file!
